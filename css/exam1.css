@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.container{
+	margin:auto;
+	width:90%;
+}
+.section{
+	padding-top:10px;
+}
+.row{
+	display:flex !important ;
+}
+.col-2{
+	display:flex;
+	padding:10px;
+}
+img{
+	max-width:100%;
+}
+i{
+	color:#ffc451;
+	font-size:40px;
+	padding-left:20px;
+	
+}
+.para{
+	padding-left:20px;
+	padding-bottom:30px;
+}
+.column{
+	width:50%;
+}
+.col-1{
+	width:50%;
+}
+p{
+	padding:1px;
+	color:#848484;
+
+}
+h2{
+	padding:1px;
+	padding-bottom:5px;
+}
